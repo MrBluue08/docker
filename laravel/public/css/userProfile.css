@@ -1,0 +1,13 @@
+body{
+    background-image: url(../images/background.png);
+    height: 100vh;
+    font-family: "Inknut Antiqua", serif;
+}
+.table-responsive {
+    max-height:300px;
+}
+.banner-room{
+    height:300px;
+    width:100%;
+    border-radius: 25px;
+}

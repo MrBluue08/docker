@@ -1,0 +1,12 @@
+body{
+    height: 100vh;
+    background-attachment: fixed;
+}
+.custom-file-input {
+    display: none;
+}
+
+.preview-img{
+    width: 100px;
+    height: 100px;
+}

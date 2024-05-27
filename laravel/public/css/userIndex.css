@@ -1,0 +1,8 @@
+body{
+    background-image: url(../images/background.png);
+    height: 100vh;
+    font-family: "Inknut Antiqua", serif;
+}
+.buttons{
+    width: 25%;
+}
